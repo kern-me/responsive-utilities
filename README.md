@@ -1,2 +1,2 @@
-# responsive-utilities
-Utility classes for common responsive design patterns
+# Responsive Utilities
+Utility classes based on common responsive design patterns.
